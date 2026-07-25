@@ -1,8 +1,12 @@
 *{
     margin: 0 ;
     font-family: 'comic sans ms';
+}
+
+body{
     background-color: antiquewhite;
 }
+
 header {
     display: flex;
     justify-content: space-between;
