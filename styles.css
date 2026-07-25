@@ -1,6 +1,7 @@
 *{
+    margin: 0 ;
     font-family: 'comic sans ms';
-    background-image: "images/leather.jpg";
+    background-image: url(images/leather.jpg);
 }
 header {
     display: flex;
