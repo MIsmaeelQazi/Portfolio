@@ -9,17 +9,14 @@ body{
 
 header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 
     background-color: #6B4F3B;
-    color: white;
-
-    padding: 20px 60px;
+    padding: 20px;
 }
 
 nav a {
-    align-items: center;
     color: white;
     background-color: #6B4F3B;
     text-decoration: none;
