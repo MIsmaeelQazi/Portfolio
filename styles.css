@@ -21,6 +21,10 @@ main{
     gap: 30px;
 }
 
+main h1{
+    text-align: center;
+}
+
 section{
     margin:70px 0;
 }
