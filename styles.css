@@ -22,7 +22,9 @@ main{
 }
 
 main h1{
-    text-align: center;
+    text-align:center;
+    font-size:3rem;
+    margin-bottom:40px;
 }
 
 section{
