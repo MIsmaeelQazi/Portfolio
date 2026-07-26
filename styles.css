@@ -1,6 +1,6 @@
 *{
     margin: 0 ;
-    font-family: 'comic sans ms';
+    font-family: "Nunito", sans-serif;
 }
 
 body{
@@ -16,7 +16,41 @@ header {
     background-color: #6B4F3B;
     padding: 20px;
 }
+main{
+    display: flex;
+    gap: 30px;
+}
 
+section{
+    margin:70px 0;
+}
+
+.ProgramminYap h1{
+    text-align:center;
+    font-size:3rem;
+    margin-bottom:40px;
+}
+
+.ProgramminYap h1{
+    text-align:center;
+    font-size:3rem;
+    margin-bottom:40px;
+}
+
+.OtherYap{
+    width:70%;
+    margin:auto;
+}
+
+.OtherYap ul{
+    margin-left:30px;
+    margin-top:15px;
+}
+
+nav{
+    display: flex;
+    gap: 30px;
+}
 
 nav a {
     color: white;
@@ -24,8 +58,7 @@ nav a {
     text-decoration: none;
     margin-left: 25px;
     font-weight: bold;
-    display: flex;
-    gap: 30px;
+    
 
 }
 
@@ -51,4 +84,16 @@ figcaption {
     margin-top: 10px;
     font-style: italic;
     color: gray;
+}
+
+footer{
+    margin-top:100px;
+    padding:20px;
+    background:#6B4F3B;
+    color:white;
+    text-align:center;
+}
+
+footer h3{
+    background:none;
 }
