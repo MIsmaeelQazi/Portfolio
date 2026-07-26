@@ -16,9 +16,10 @@ header {
     background-color: #6B4F3B;
     padding: 20px;
 }
+
 main{
-    display: flex;
-    gap: 30px;
+    width:80%;
+    margin:auto;
 }
 
 main h1{
@@ -46,6 +47,14 @@ section{
     border-radius:20px;
 
     box-shadow:0 10px 30px rgba(0,0,0,.3);
+}
+
+.ProgramminYap p{
+    width:60%;
+}
+
+.ProgramminYap img{
+    width:30%;
 }
 
 .OtherYap{
