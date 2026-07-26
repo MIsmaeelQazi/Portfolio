@@ -17,10 +17,6 @@ header {
     padding: 20px;
 }
 
-nav {
-    display: flex;
-    gap: 30px;
-}
 
 nav a {
     color: white;
@@ -28,6 +24,8 @@ nav a {
     text-decoration: none;
     margin-left: 25px;
     font-weight: bold;
+    display: flex;
+    gap: 30px;
 
 }
 
