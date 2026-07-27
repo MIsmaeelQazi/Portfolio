@@ -131,3 +131,82 @@ footer{
 footer h3{
     background:none;
 }
+
+
+.Journey{
+    width:75%;
+    margin:70px auto;
+}
+
+.Achievement{
+    background:#6B4F3B;
+    color:white;
+
+    padding:25px;
+    margin:25px 0;
+
+    border-radius:18px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+
+    transition:0.25s ease;
+}
+
+.Achievement:hover{
+    transform:translateY(-5px);
+}
+
+.Achievement h3{
+    color:#FFD166;
+    margin-bottom:12px;
+    font-size:1.5rem;
+}
+
+.Achievement p{
+    line-height:1.7;
+}
+
+.PeakMusic{
+    width:75%;
+    margin:80px auto;
+}
+
+.grid{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:25px;
+
+    margin-top:40px;
+}
+
+.Peak{
+    width:220px;
+
+    background:#6B4F3B;
+    color:white;
+
+    padding:20px;
+
+    border-radius:18px;
+
+    text-align:center;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+
+    transition:0.25s ease;
+}
+
+.Peak:hover{
+    transform:translateY(-8px);
+}
+
+.Peak h3{
+    margin-bottom:10px;
+    font-size:1.3rem;
+}
+
+.Peak p{
+    color:#FFD166;
+    font-style:italic;
+}
